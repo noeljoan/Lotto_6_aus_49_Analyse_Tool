@@ -229,11 +229,9 @@ Das ist ein **False Positive** – die Datei ist sicher. Du kannst sie in den Au
 ---
 
 ## 📄 Lizenz
-
+---
 Veröffentlicht unter der MIT-Lizenz. Einzelheiten finden Sie unter [`LICENSE`](LICENSE).
 © 2026 - N. Joan
 Dies ist **kein Tool, das Ihre Gewinnchancen erhöht**: Es handelt sich um ein
 Tool, das Ihre Zahlen auswertet. Spielen Sie in Maßen.
----
-
 *Viel Glück beim nächsten Samstag! 🍀*
