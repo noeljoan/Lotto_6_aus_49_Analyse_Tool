@@ -105,7 +105,7 @@ Ein Tipp pro Zeile, 6 Zahlen (1–49). Alle drei Formate werden erkannt:
 
 Optional kann eine Header-Zeile vorhanden sein:
 ```csv
-Grille,Nummern
+Tipp,Nummern
 1,5,12,23,34,41,49
 ```
 
@@ -158,7 +158,7 @@ Der Export (Tab 3 → **Excel exportieren**) erstellt eine `.xlsx`-Datei mit:
 | Tabellenblatt | Inhalt |
 |---------------|--------|
 | `Auswertung` | Alle Ziehungen mit Treffern, Gewinn, Bilanz |
-| `Meine Grilles` | Deine importierten Tippreihen |
+| `Meine Tipps` | Deine importierten Tippreihen |
 
 ---
 
@@ -167,7 +167,7 @@ Der Export (Tab 3 → **Excel exportieren**) erstellt eine `.xlsx`-Datei mit:
 | Diagramm | Beschreibung |
 |----------|--------------|
 | **Häufigkeit gezogener Zahlen** | Balkendiagramm aller Zahlen 1–49 |
-| **Trefferhäufigkeit deiner Grilles** | 2er bis 6er Treffer im Überblick |
+| **Trefferhäufigkeit deiner Tipps** | 2er bis 6er Treffer im Überblick |
 | **Gewinn pro Ziehung** | Balken + kumulierte Bilanzkurve |
 
 ---
