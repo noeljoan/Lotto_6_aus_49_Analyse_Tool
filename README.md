@@ -230,11 +230,10 @@ Das ist ein **False Positive** – die Datei ist sicher. Du kannst sie in den Au
 
 ## 📄 Lizenz
 
-Distribué sous licence MIT. Voir [`LICENSE`](LICENSE) pour les détails.
+Veröffentlicht unter der MIT-Lizenz. Einzelheiten finden Sie unter [`LICENSE`](LICENSE).
 © 2026 - N. Joan
-
-MIT License – frei verwendbar und anpassbar.
-
+Dies ist **kein Tool, das Ihre Gewinnchancen erhöht**: Es handelt sich um ein
+Tool, das Ihre Zahlen auswertet. Spielen Sie in Maßen.
 ---
 
 *Viel Glück beim nächsten Samstag! 🍀*
