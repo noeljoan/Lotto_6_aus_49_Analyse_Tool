@@ -230,6 +230,9 @@ Das ist ein **False Positive** – die Datei ist sicher. Du kannst sie in den Au
 
 ## 📄 Lizenz
 
+Distribué sous licence MIT. Voir [`LICENSE`](LICENSE) pour les détails.
+© 2026 - N. Joan
+
 MIT License – frei verwendbar und anpassbar.
 
 ---
