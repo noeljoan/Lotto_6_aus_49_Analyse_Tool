@@ -67,6 +67,19 @@ pip install openpyxl matplotlib
 ```bash
 python lotto_app.py
 ```
+## 🖼️ Screenshots
+
+![Dashboard](screenshot1.png)
+1. Meine Tipps
+---
+
+![Dashboard](screenshot2.png)
+3. Auswertung
+
+---
+
+![Dashboard](screenshot3.png)
+4. Statistiken
 
 ---
 
