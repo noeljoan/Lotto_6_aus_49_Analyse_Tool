@@ -16,7 +16,7 @@
 ┌─────────────────────────────────────────────────────────┐
 │  LOTTO 6 aus 49 – Analyse Tool                          │
 ├──────────────┬─────────────┬──────────────┬─────────────┤
-│ 1 - Grilles  │ 2-Ziehungen │ 3-Auswertung │ 4-Statistik │
+│ 1 - Tipps  │ 2-Ziehungen │ 3-Auswertung │ 4-Statistik │
 └──────────────┴─────────────┴──────────────┴─────────────┘
 ```
 
@@ -85,9 +85,9 @@ python lotto_app.py
 
 ## 📋 CSV-Formate
 
-### Grilles (`tab_grilles.py`)
+### Tipps (`tab_grilles.py`)
 
-Eine Grille pro Zeile, 6 Zahlen (1–49). Alle drei Formate werden erkannt:
+Ein Tipp pro Zeile, 6 Zahlen (1–49). Alle drei Formate werden erkannt:
 
 ```csv
 # Mit Komma
