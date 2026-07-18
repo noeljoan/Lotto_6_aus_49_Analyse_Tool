@@ -32,7 +32,7 @@ class LottoApp(tk.Tk):
             font=("Segoe UI", 18, "bold"), fg="white", bg="#1F4E79"
         ).pack()
         tk.Label(
-            header, text="Importiere deine Grilles und Ziehungen – unbegrenzt",
+            header, text="Importiere deine Tipps und Ziehungen – unbegrenzt",
             font=("Segoe UI", 10), fg="#BDD7EE", bg="#1F4E79"
         ).pack()
 
@@ -60,7 +60,7 @@ class LottoApp(tk.Tk):
         self.notebook.add(self.tab_statistik,  text="  4 - Statistiken  ")
 
     def notify_data_changed(self):
-        """Wird aufgerufen wenn Grilles oder Ziehungen aktualisiert werden."""
+        """Wird aufgerufen wenn Tipps oder Ziehungen aktualisiert werden."""
         self.tab_auswertung.refresh()
         self.tab_statistik.refresh()
 
